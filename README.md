@@ -1,3 +1,3 @@
 # Awesome GameDev Tools
 
-A list of Open Source engines that are available for free.
+A list of open Source game engines that are available for free.
