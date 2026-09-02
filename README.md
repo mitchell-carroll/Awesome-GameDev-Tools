@@ -1,5 +1,3 @@
-# title 1
+# Awesome GameDev Tools
 
-## title 2
-
-A list of Open Source, 3D engines that are available for free.
+A list of Open Source engines that are available for free.
