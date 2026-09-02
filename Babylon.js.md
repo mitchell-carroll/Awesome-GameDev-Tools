@@ -2,4 +2,4 @@
 
 ## https://www.babylonjs.com/
 
-Babylon is described as a "powerful, beautiful, and simple open web rendering engine." It uses javascript and has AR/VR capabilities.
+Babylon is described as a "powerful, beautiful, and simple open web rendering engine." It uses javascript and has AR/VR capabilities, and has features to provide ample lighting and particles.
